@@ -1,0 +1,22 @@
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+venv/
+.env
+
+# Node
+node_modules/
+frontend/dist/
+frontend/.vite/
+
+# Baza de date locala
+licenta-backend/data.db
+
+# ML models (fisiere mari, generate local)
+# licenta-backend/ml_models/*.pkl   # decommenteaza daca nu vrei sa urce modelele
+
+# OS
+.DS_Store
+Thumbs.db

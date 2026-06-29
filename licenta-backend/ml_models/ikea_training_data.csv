@@ -1,0 +1,540 @@
+product_name,category,width_cm,depth_cm,height_cm,material_structure,upholstery_material,is_extensible,seat_count,table_capacity_persons,price_ron
+BINGSTA,Chairs,70.0,58.0,76.0,Lemn Masiv,Fara,0,1,0,684.25
+SKRUVSTA,Chairs,69.0,69.0,79.0,Lemn Masiv,Fara,0,1,0,626.75
+STRANDMON,Chairs,82.0,96.0,101.0,Metal,Fara,0,1,0,1144.25
+PELLO,Chairs,67.0,85.0,96.0,Metal,Fara,0,1,0,224.25
+EKOLSUND,Chairs,85.0,94.0,97.0,Lemn Masiv,Fara,0,1,0,1604.25
+NILSOVE,Chairs,57.0,57.0,82.0,Lemn Masiv,Fara,0,1,0,454.25
+AGEN,Chairs,58.0,56.0,79.0,Metal,Fara,0,1,0,281.75
+ADDE,Chairs,39.0,47.0,77.0,Metal,Textil,0,1,0,46.0
+GUNDE,Chairs,41.0,45.0,78.0,Lemn Masiv,Fara,0,1,0,34.5
+NOLMYRA,Chairs,64.0,75.0,75.0,Metal,Fara,0,1,0,201.25
+STRANDMON,Chairs,56.0,62.0,71.0,Lemn Masiv,Fara,0,1,0,569.25
+GRÖNADAL,Chairs,80.0,81.0,86.0,Metal,Textil,0,1,0,914.25
+INGOLF,Chairs,43.0,52.0,91.0,Metal,Fara,0,1,0,224.25
+KARLJAN,Chairs,49.0,55.0,81.0,Metal,Textil,0,1,0,143.75
+REMSTA,Chairs,60.0,72.0,88.0,Lemn Masiv,Fara,0,1,0,914.25
+STOCKSUND,Chairs,144.0,49.0,47.0,Lemn Masiv,Fara,0,1,0,1144.25
+INGOLF,Chairs,39.0,30.0,45.0,Metal,Textil,0,1,0,201.25
+IKEA PS GULLHOLMEN,Chairs,62.0,68.0,75.0,Lemn Masiv,Fara,0,1,0,339.25
+BEKVÄM,Chairs,43.0,39.0,50.0,Metal,Fara,0,1,0,67.85
+TOSSBERG,Chairs,60.0,56.0,82.0,Metal,Fara,0,1,0,569.25
+KYRRE,Chairs,42.0,48.0,45.0,Metal,Fara,0,1,0,69.0
+TEODORES,Chairs,46.0,54.0,80.0,Metal,Textil,0,1,0,109.25
+BUSKBO,Chairs,72.0,63.0,42.0,Metal,Fara,0,1,0,776.25
+JOKKMOKK,Chairs,41.0,47.0,90.0,Lemn Masiv,Fara,0,1,0,91.08
+TOBIAS,Chairs,55.0,56.0,82.0,Metal,Textil,0,1,0,396.75
+TULLSTA,Chairs,79.0,69.0,78.0,Metal,Fara,0,1,0,626.75
+STIG,Chairs,60.0,50.0,100.0,Lemn Masiv,Fara,0,1,0,79.35
+VEDBO,Chairs,73.0,65.0,75.0,Metal,Fara,0,1,0,1121.25
+HARRY,Chairs,48.0,50.0,96.0,Metal,Fara,0,1,0,228.85
+IKEA PS LÖMSK,Chairs,59.0,62.0,75.0,Metal,Fara,0,1,0,396.75
+POÄNG,Chairs,47.0,60.0,68.0,Metal,Fara,0,1,0,205.85
+POÄNG,Chairs,68.0,94.0,95.0,Lemn Masiv,Fara,0,1,0,908.5
+LEIFARNE,Chairs,52.0,50.0,88.0,Metal,Fara,0,1,0,281.75
+SÖDERHAMN,Chairs,93.0,151.0,83.0,Lemn Masiv,Fara,0,1,0,1265.0
+MACKAPÄR,Chairs,100.0,35.0,51.0,Lemn Masiv,Fara,0,1,0,339.25
+NILSOVE / NORNA,Chairs,57.0,57.0,82.0,Metal,Fara,0,1,0,487.6
+EKTORP,Chairs,104.0,88.0,88.0,Metal,Fara,0,1,0,776.25
+LEIFARNE,Chairs,52.0,50.0,87.0,Metal,Fara,0,1,0,224.25
+STEFAN,Chairs,42.0,49.0,90.0,Metal,Fara,0,1,0,97.75
+ODGER,Chairs,45.0,51.0,81.0,Metal,Fara,0,1,0,203.55
+GUNDE,Chairs,41.0,45.0,78.0,Lemn Masiv,Fara,0,1,0,34.5
+NISSE,Chairs,45.0,47.0,76.0,Metal,Textil,0,1,0,56.35
+EKERÖ,Chairs,70.0,73.0,75.0,Metal,Textil,0,1,0,799.25
+HATTEFJÄLL,Chairs,68.0,68.0,110.0,Metal,Fara,0,1,0,1489.25
+BÖRJE,Chairs,44.0,55.0,100.0,Metal,Fara,0,1,0,201.25
+KARLJAN,Chairs,49.0,55.0,81.0,Metal,Textil,0,1,0,143.75
+RÅDVIKEN,Chairs,79.0,73.0,82.0,Metal,Textil,0,1,0,776.25
+HENRIKSDAL,Chairs,51.0,58.0,97.0,Metal,Fara,0,1,0,339.25
+GRÖNLID,Chairs,117.0,164.0,104.0,Lemn Masiv,Fara,0,1,0,2179.25
+MARTIN,Chairs,49.0,52.0,86.0,Metal,Fara,0,1,0,113.85
+HEMNES,Chairs,64.0,37.0,173.0,Lemn Masiv,Fara,0,1,0,569.25
+SAKARIAS,Chairs,60.0,67.0,96.0,Metal,Textil,0,1,0,741.75
+BALTSAR,Chairs,58.0,56.0,85.0,Lemn Masiv,Fara,0,1,0,684.25
+BINGSTA,Chairs,70.0,58.0,101.0,Metal,Fara,0,1,0,799.25
+ULRIKSBERG,Chairs,67.0,74.0,76.0,Lemn Masiv,Fara,0,1,0,511.75
+FÖRSIKTIG,Chairs,37.0,24.0,13.0,Lemn Masiv,Fara,0,1,0,17.25
+INGOLF,Chairs,40.0,45.0,91.0,Metal,Fara,0,1,0,396.75
+SAKARIAS,Chairs,39.0,51.0,49.0,Lemn Masiv,Fara,0,1,0,258.75
+KOARP,Chairs,83.0,78.0,75.0,Metal,Textil,0,1,0,948.75
+MARKERAD,Chairs,53.0,46.0,76.0,Lemn Masiv,Fara,0,1,0,376.05
+POÄNG,Chairs,47.0,56.0,68.0,Metal,Fara,0,1,0,205.85
+SVENBERTIL,Chairs,48.0,51.0,85.0,Metal,Fara,0,1,0,281.75
+STOCKSUND,Chairs,92.0,97.0,84.0,Metal,Fara,0,1,0,1949.25
+BENARP,Chairs,92.0,83.0,106.0,Lemn Masiv,Fara,0,1,0,1719.25
+FRANKLIN,Chairs,50.0,44.0,95.0,Metal,Fara,0,1,0,148.35
+NISSE,Chairs,45.0,47.0,76.0,Metal,Textil,0,1,0,56.35
+SKOGSTORP,Chairs,132.0,36.0,45.0,Metal,Fara,0,1,0,914.25
+ANTILOP,Chairs,56.0,62.0,90.0,Metal,Textil,0,1,0,126.5
+LIDHULT,Chairs,119.0,98.0,102.0,Metal,Textil,0,1,0,2064.25
+TERJE,Chairs,44.0,51.0,77.0,Lemn Masiv,Fara,0,1,0,90.85
+RÖNNINGE,Chairs,46.0,49.0,79.0,Lemn Masiv,Fara,0,1,0,396.75
+LANGUR,Chairs,22.0,21.0,40.0,Lemn Masiv,Fara,0,1,0,57.5
+HENRIKSDAL,Chairs,51.0,58.0,97.0,Metal,Fara,0,1,0,339.25
+STUVA / FRITIDS,Chairs,90.0,50.0,50.0,Lemn Masiv,Fara,0,1,0,454.25
+EKENÄS,Chairs,86.0,78.0,90.0,Metal,Fara,0,1,0,1144.25
+LERHAMN,Chairs,42.0,49.0,85.0,Lemn Masiv,Fara,0,1,0,166.75
+EKEDALEN,Chairs,43.0,51.0,95.0,Metal,Textil,0,1,0,258.75
+POÄNG,Chairs,68.0,94.0,95.0,Lemn Masiv,Fara,0,1,0,686.55
+BUSKBO,Chairs,72.0,63.0,42.0,Metal,Fara,0,1,0,661.25
+POÄNG,Chairs,68.0,82.0,100.0,Metal,Fara,0,1,0,488.75
+LEIFARNE,Chairs,52.0,50.0,87.0,Metal,Fara,0,1,0,224.25
+HAVSTEN,Chairs,83.0,94.0,90.0,Metal,Textil,0,1,0,1236.25
+SÖDERHAMN,Chairs,105.0,99.0,83.0,Lemn Masiv,Fara,0,1,0,1638.75
+VEDBO,Chairs,80.0,85.0,108.0,Metal,Fara,0,1,0,1546.75
+HEMNES,Chairs,85.0,32.0,65.0,Lemn Masiv,Fara,0,1,0,339.25
+BEKVÄM,Chairs,43.0,39.0,50.0,Metal,Fara,0,1,0,113.85
+HENRIKSDAL,Chairs,51.0,58.0,97.0,Metal,Fara,0,1,0,258.75
+SVENARNE,Chairs,59.0,69.0,99.0,Metal,Textil,0,1,0,914.25
+SAKARIAS,Chairs,39.0,51.0,49.0,Metal,Fara,0,1,0,201.25
+FANBYN,Chairs,50.0,50.0,45.0,Lemn Masiv,Fara,0,1,0,172.5
+VILTO,Chairs,40.0,32.0,25.0,Metal,Fara,0,1,0,65.55
+FRANKLIN,Chairs,52.0,44.0,103.0,Metal,Textil,0,1,0,171.35
+SVENBERTIL,Chairs,52.0,50.0,84.0,Metal,Fara,0,1,0,224.25
+NORRARYD,Chairs,47.0,51.0,83.0,Metal,Textil,0,1,0,299.0
+EKEDALEN,Chairs,43.0,51.0,114.0,Lemn Masiv,Fara,0,1,0,396.75
+DELAKTIG,Chairs,94.0,84.0,45.0,Lemn Masiv,Fara,0,1,0,1725.0
+KARLHUGO,Chairs,49.0,58.0,89.0,Metal,Fara,0,1,0,684.25
+VALLENTUNA,Chairs,113.0,93.0,84.0,Lemn Masiv,Fara,1,1,0,2240.2
+HATTEFJÄLL,Chairs,68.0,68.0,110.0,Metal,Fara,0,1,0,1661.75
+GRÖNLID,Chairs,87.0,84.0,90.0,Metal,Fara,0,1,0,1144.25
+VALLENTUNA,Chairs,113.0,93.0,84.0,Lemn Masiv,Fara,0,1,0,1688.2
+LEIFARNE,Chairs,53.0,50.0,87.0,Metal,Textil,0,1,0,316.25
+NORDMELA,Chairs,159.0,44.0,50.0,Lemn Masiv,Fara,1,1,0,731.4
+BÖRJE,Chairs,44.0,55.0,100.0,Metal,Fara,0,1,0,201.25
+GISTAD,Chairs,66.0,84.0,96.0,Lemn Masiv,Fara,0,1,0,1086.75
+POÄNG,Chairs,68.0,82.0,100.0,Metal,Fara,0,1,0,439.3
+LÅNGFJÄLL,Chairs,15.0,27.0,32.0,Metal,Fara,0,1,0,115.0
+EKEDALEN,Chairs,43.0,51.0,95.0,Metal,Textil,0,1,0,258.75
+LANDSKRONA,Chairs,89.0,89.0,78.0,Metal,Textil,0,1,0,2294.25
+DELAKTIG,Chairs,94.0,84.0,79.0,Lemn Masiv,Fara,0,1,0,2702.5
+LANDSKRONA,Chairs,78.0,158.0,78.0,Lemn Masiv,Fara,0,1,0,2875.0
+NORDVIKEN,Chairs,44.0,56.0,97.0,Lemn Masiv,Fara,0,1,0,258.75
+NORRÅKER,Chairs,42.0,48.0,100.0,Metal,Textil,0,1,0,454.25
+KORNSJÖ,Chairs,70.0,47.0,51.0,Metal,Textil,0,1,0,431.25
+BEKVÄM,Chairs,43.0,39.0,50.0,Metal,Fara,0,1,0,113.85
+TRANARÖ,Chairs,56.0,41.0,43.0,Metal,Textil,0,1,0,109.25
+FRANKLIN,Chairs,50.0,44.0,95.0,Metal,Fara,0,1,0,148.35
+AGAM,Chairs,41.0,43.0,79.0,Lemn Masiv,Fara,0,1,0,224.25
+MUREN,Chairs,85.0,94.0,97.0,Lemn Masiv,Fara,0,1,0,1604.25
+LEIFARNE,Chairs,52.0,52.0,82.0,Metal,Fara,0,1,0,224.25
+HENRIKSDAL,Chairs,51.0,58.0,97.0,Metal,Fara,0,1,0,339.25
+HENRIKSDAL,Chairs,40.0,51.0,102.0,Lemn Masiv,Fara,0,1,0,799.25
+NORRARYD,Chairs,47.0,51.0,83.0,Metal,Textil,0,1,0,299.0
+VIMLE,Chairs,111.0,164.0,83.0,Lemn Masiv,Fara,0,1,0,1955.0
+ANTILOP,Chairs,56.0,59.0,90.0,Lemn Masiv,Fara,0,1,0,97.75
+AGAM,Chairs,41.0,43.0,79.0,Lemn Masiv,Fara,0,1,0,224.25
+JANINGE,Chairs,50.0,46.0,76.0,Metal,Fara,0,1,0,207.0
+LERHAMN,Chairs,42.0,49.0,85.0,Lemn Masiv,Fara,0,1,0,166.75
+FREKVENS,Chairs,43.0,53.0,104.0,Metal,Textil,0,1,0,203.55
+INGOLF,Chairs,40.0,45.0,102.0,Metal,Fara,0,1,0,454.25
+HAVSTEN,Chairs,98.0,94.0,90.0,Metal,Textil,0,1,0,1403.0
+RÅSKOG,Chairs,44.0,44.0,45.0,Metal,Textil,0,1,0,96.6
+RÅSKOG,Chairs,44.0,44.0,45.0,Metal,Textil,0,1,0,96.6
+BRORINGE,Chairs,52.0,50.0,45.0,Lemn Masiv,Fara,0,1,0,109.25
+NOMINELL,Chairs,23.0,28.0,29.0,Metal,Textil,0,1,0,143.75
+LANGUR,Chairs,35.0,37.0,40.0,Metal,Textil,0,1,0,126.5
+LEIFARNE,Chairs,53.0,50.0,87.0,Metal,Textil,0,1,0,316.25
+FRANKLIN,Chairs,52.0,44.0,103.0,Metal,Textil,0,1,0,171.35
+VEDBO,Chairs,65.0,61.0,84.0,Metal,Textil,0,1,0,799.25
+INGATORP,Chairs,57.0,63.0,99.0,Lemn Masiv,Fara,0,1,0,511.75
+LANGUR,Chairs,56.0,61.0,87.0,Metal,Fara,0,1,0,460.0
+INGOLF,Chairs,41.0,45.0,77.0,Metal,Fara,0,1,0,253.0
+MÄSTERBY,Chairs,43.0,40.0,50.0,Metal,Textil,0,1,0,166.75
+VATTVIKEN,Chairs,92.0,83.0,86.0,Metal,Textil,1,1,0,1144.25
+JANINGE,Chairs,38.0,36.0,84.0,Metal,Fara,0,1,0,684.25
+VEBERÖD,Chairs,88.0,45.0,53.0,Lemn Masiv,Fara,0,1,0,376.05
+STOLJAN,Chairs,45.0,51.0,81.0,Metal,Fara,0,1,0,253.0
+LANGUR,Chairs,56.0,60.0,36.0,Metal,Fara,0,1,0,40.25
+EKERÖ,Chairs,70.0,73.0,75.0,Metal,Textil,0,1,0,914.25
+POÄNG,Chairs,68.0,94.0,95.0,Lemn Masiv,Fara,0,1,0,1391.5
+LIDHULT,Chairs,138.0,160.0,102.0,Metal,Textil,0,1,0,2875.0
+HENRIKSDAL,Chairs,51.0,58.0,97.0,Lemn Masiv,Fara,0,1,0,339.25
+LANDSKRONA,Chairs,89.0,89.0,78.0,Metal,Textil,0,1,0,1604.25
+POÄNG,Chairs,68.0,94.0,95.0,Lemn Masiv,Fara,0,1,0,1391.5
+BRORINGE,Chairs,52.0,50.0,45.0,Lemn Masiv,Fara,0,1,0,109.25
+LIDHULT,Chairs,138.0,160.0,102.0,Metal,Textil,0,1,0,3486.8
+KIVIK,Chairs,90.0,163.0,83.0,Metal,Fara,0,1,0,1495.0
+YNGVAR,Chairs,53.0,51.0,71.0,Metal,Textil,0,1,0,454.25
+NORDVIKEN,Chairs,40.0,47.0,101.0,Lemn Masiv,Fara,0,1,0,316.25
+TROGEN,Chairs,40.0,38.0,33.0,Lemn Masiv,Fara,0,1,0,102.35
+FLISAT,Chairs,55.0,38.0,45.0,Lemn Masiv,Fara,0,1,0,159.85
+RÅSKOG,Chairs,44.0,44.0,63.0,Lemn Masiv,Fara,0,1,0,201.25
+NISSE,Chairs,45.0,47.0,76.0,Metal,Textil,0,1,0,113.85
+EKEDALEN,Chairs,43.0,52.0,114.0,Lemn Masiv,Fara,0,1,0,396.75
+EKEDALEN,Chairs,43.0,51.0,95.0,Metal,Textil,0,1,0,258.75
+STUVA / FÖLJA,Chairs,90.0,50.0,50.0,Metal,Fara,0,1,0,442.75
+POÄNG,Chairs,47.0,56.0,68.0,Metal,Fara,0,1,0,154.1
+NORRÅKER,Chairs,45.0,29.0,45.0,Metal,Fara,0,1,0,166.75
+GAMLEBY,Chairs,42.0,50.0,85.0,Lemn Masiv,Fara,0,1,0,339.25
+NORSBORG,Chairs,110.0,157.0,85.0,Metal,Textil,0,1,0,2001.0
+HENRIKSDAL,Chairs,40.0,51.0,102.0,Lemn Masiv,Fara,0,1,0,454.25
+EKEDALEN,Chairs,43.0,52.0,114.0,Lemn Masiv,Fara,0,1,0,396.75
+GLENN,Chairs,50.0,52.0,100.0,Metal,Fara,0,1,0,511.75
+FÄRLÖV,Chairs,93.0,101.0,88.0,Metal,Textil,0,1,0,1375.4
+BERNHARD,Chairs,49.0,50.0,77.0,Metal,Fara,0,1,0,856.75
+VEDBO,Chairs,49.0,57.0,83.0,Lemn Masiv,Fara,0,1,0,684.25
+GRÖNLID,Chairs,87.0,84.0,90.0,Metal,Fara,0,1,0,1374.25
+DELAKTIG,Chairs,149.0,84.0,45.0,Metal,Textil,0,1,0,3105.0
+HATTEFJÄLL,Chairs,4.0,23.0,64.0,Lemn Masiv,Fara,0,1,0,172.5
+KIVIK,Chairs,90.0,163.0,83.0,Metal,Fara,0,1,0,2990.0
+BRORINGE,Chairs,52.0,50.0,45.0,Lemn Masiv,Fara,0,1,0,109.25
+GRUVBYN,Chairs,51.0,59.0,107.0,Lemn Masiv,Fara,0,1,0,626.75
+SVENBERTIL,Chairs,53.0,50.0,84.0,Lemn Masiv,Fara,0,1,0,316.25
+BERNHARD,Chairs,49.0,50.0,77.0,Metal,Fara,0,1,0,856.75
+BLÅMES,Chairs,52.0,53.0,93.0,Metal,Textil,0,1,0,431.25
+TOBIAS,Chairs,55.0,56.0,82.0,Metal,Textil,0,1,0,396.75
+VOLFGANG,Chairs,53.0,43.0,85.0,Metal,Textil,0,1,0,201.25
+JANINGE,Chairs,54.0,46.0,76.0,Lemn Masiv,Fara,0,1,0,258.75
+GRUVBYN,Chairs,51.0,59.0,107.0,Lemn Masiv,Fara,0,1,0,626.75
+VOLFGANG,Chairs,50.0,53.0,90.0,Metal,Textil,0,1,0,431.25
+URBAN,Chairs,45.0,48.0,79.0,Metal,Fara,0,1,0,258.75
+NORRARYD,Chairs,46.0,47.0,103.0,Metal,Fara,0,1,0,454.25
+VOLFGANG,Chairs,50.0,53.0,90.0,Metal,Textil,0,1,0,431.25
+LANGUR,Chairs,56.0,61.0,87.0,Metal,Fara,0,1,0,396.75
+JANINGE,Chairs,38.0,36.0,84.0,Metal,Fara,0,1,0,684.25
+JANINGE,Chairs,50.0,46.0,76.0,Metal,Fara,0,1,0,258.75
+BERNHARD,Chairs,48.0,50.0,90.0,Metal,Textil,0,1,0,856.75
+LANGUR,Chairs,56.0,61.0,82.0,Lemn Masiv,Fara,0,1,0,270.25
+NORRNÄS,Chairs,42.0,53.0,95.0,Lemn Masiv,Fara,0,1,0,373.75
+INGOLF,Chairs,41.0,45.0,77.0,Metal,Fara,0,1,0,316.25
+YNGVAR,Chairs,53.0,51.0,71.0,Metal,Textil,0,1,0,458.85
+BERNHARD,Chairs,49.0,50.0,77.0,Metal,Fara,0,1,0,856.75
+MÄSTERBY,Chairs,43.0,40.0,50.0,Metal,Textil,0,1,0,166.75
+BALSBERGET,Chairs,69.0,69.0,38.0,Metal,Textil,0,1,0,241.5
+ERNFRID,Chairs,48.0,51.0,46.0,Lemn Masiv,Fara,0,1,0,166.75
+HENRIKSDAL,Chairs,51.0,58.0,97.0,Metal,Fara,0,1,0,684.25
+POÄNG,Chairs,68.0,82.0,100.0,Metal,Fara,0,1,0,1144.25
+RÅSKOG,Chairs,44.0,44.0,63.0,Lemn Masiv,Fara,0,1,0,201.25
+HENRIKSDAL,Chairs,40.0,51.0,102.0,Lemn Masiv,Fara,0,1,0,500.25
+GRÖNLID,Chairs,117.0,164.0,104.0,Lemn Masiv,Fara,0,1,0,2530.0
+DIETMAR,Chairs,53.0,50.0,65.0,Metal,Textil,0,1,0,201.25
+POÄNG,Chairs,68.0,82.0,100.0,Metal,Fara,0,1,0,1144.25
+DIETMAR,Chairs,53.0,50.0,65.0,Metal,Textil,0,1,0,201.25
+SÖDERHAMN,Sofas & armchairs,93.0,99.0,83.0,Lemn Masiv,Textil,0,3,0,1023.5
+SÖDERHAMN,Sofas & armchairs,93.0,151.0,83.0,Lemn Masiv,Textil,0,3,0,1495.0
+STOCKSUND,Sofas & armchairs,144.0,49.0,47.0,Lemn Masiv,Textil,0,3,0,1144.25
+SÖDERHAMN,Sofas & armchairs,99.0,99.0,83.0,Lemn Masiv,Textil,0,3,0,1489.25
+KNOPPARP,Sofas & armchairs,119.0,76.0,70.0,Lemn Masiv,Textil,0,2,0,396.75
+ANGERSBY,Sofas & armchairs,137.0,84.0,89.0,Lemn Masiv,Textil,0,2,0,856.75
+EKTORP,Sofas & armchairs,179.0,88.0,88.0,Lemn Masiv,Textil,0,3,0,1236.25
+EKTORP,Sofas & armchairs,218.0,88.0,88.0,Lemn Masiv,Textil,0,3,0,2012.5
+SÖDERHAMN,Sofas & armchairs,291.0,99.0,83.0,Lemn Masiv,Textil,0,3,0,5675.25
+KLIPPAN,Sofas & armchairs,180.0,88.0,66.0,Lemn Masiv,Textil,0,2,0,1144.25
+HAMMARN,Sofas & armchairs,128.0,85.0,78.0,Lemn Masiv,Textil,1,3,0,458.85
+SÖDERHAMN,Sofas & armchairs,285.0,151.0,83.0,Lemn Masiv,Textil,0,4,0,3588.0
+SANDBACKEN,Sofas & armchairs,212.0,78.0,69.0,Lemn Masiv,Textil,0,3,0,1352.4
+GRÖNLID,Sofas & armchairs,322.0,98.0,104.0,Lemn Masiv,Textil,0,3,0,5272.75
+STOCKSUND,Sofas & armchairs,199.0,97.0,84.0,Lemn Masiv,Textil,0,3,0,3099.25
+HÄSSELBY,Sofas & armchairs,176.0,81.0,81.0,Lemn Masiv,Textil,0,3,0,1489.25
+SÖDERHAMN,Sofas & armchairs,198.0,99.0,83.0,Lemn Masiv,Textil,0,3,0,2294.25
+GAMLARP,Sofas & armchairs,211.0,90.0,86.0,Lemn Masiv,Textil,0,3,0,3214.25
+SÖDERHAMN,Sofas & armchairs,192.0,99.0,83.0,Lemn Masiv,Textil,0,4,0,4818.5
+FRIHETEN,Sofas & armchairs,225.0,105.0,83.0,Lemn Masiv,Textil,1,3,0,2121.75
+GRÖNLID,Sofas & armchairs,247.0,98.0,104.0,Lemn Masiv,Textil,0,3,0,2524.25
+LANDSKRONA,Sofas & armchairs,164.0,89.0,78.0,Lemn Masiv,Textil,0,2,0,2294.25
+KIVIK,Sofas & armchairs,387.0,163.0,83.0,Lemn Masiv,Textil,0,3,0,7526.75
+LYCKSELE,Sofas & armchairs,92.0,55.0,21.0,Lemn Masiv,Textil,1,2,0,115.0
+STRANDMON,Sofas & armchairs,60.0,40.0,44.0,Lemn Masiv,Textil,0,3,0,345.0
+GRÖNLID,Sofas & armchairs,328.0,164.0,104.0,Lemn Masiv,Textil,0,4,0,4128.5
+SÖDERHAMN,Sofas & armchairs,186.0,99.0,83.0,Lemn Masiv,Textil,0,3,0,1891.75
+ASKEBY,Sofas & armchairs,149.0,72.0,72.0,Lemn Masiv,Textil,1,3,0,1144.25
+BRÅTHULT,Sofas & armchairs,212.0,78.0,69.0,Lemn Masiv,Textil,0,3,0,1352.4
+NORSBORG,Sofas & armchairs,285.0,88.0,85.0,Lemn Masiv,Textil,0,3,0,5267.0
+VIMLE,Sofas & armchairs,241.0,98.0,83.0,Lemn Masiv,Textil,0,3,0,3001.5
+NORSBORG,Sofas & armchairs,213.0,88.0,85.0,Lemn Masiv,Textil,0,3,0,2323.0
+NYHAMN,Sofas & armchairs,200.0,97.0,90.0,Lemn Masiv,Textil,1,3,0,1690.5
+VIMLE,Sofas & armchairs,322.0,164.0,83.0,Lemn Masiv,Textil,0,4,0,4375.75
+GRÖNLID,Sofas & armchairs,177.0,98.0,104.0,Lemn Masiv,Textil,0,2,0,2064.25
+SÖDERHAMN,Sofas & armchairs,105.0,99.0,83.0,Lemn Masiv,Textil,0,3,0,1350.1
+NORSBORG,Sofas & armchairs,153.0,88.0,85.0,Lemn Masiv,Textil,0,2,0,1909.0
+SÖDERHAMN,Sofas & armchairs,186.0,151.0,83.0,Lemn Masiv,Textil,0,2,0,2288.5
+SÖDERHAMN,Sofas & armchairs,291.0,151.0,83.0,Lemn Masiv,Textil,0,4,0,4421.75
+LANDSKRONA,Sofas & armchairs,204.0,89.0,78.0,Lemn Masiv,Textil,0,3,0,2869.25
+FLOTTEBO,Sofas & armchairs,200.0,120.0,79.0,Lemn Masiv,Textil,1,3,0,2571.4
+FÄRLÖV,Sofas & armchairs,218.0,106.0,88.0,Lemn Masiv,Textil,0,3,0,2984.25
+HOLMSUND,Sofas & armchairs,230.0,151.0,96.0,Lemn Masiv,Textil,1,3,0,3444.25
+HEMNES,Sofas & armchairs,89.0,70.0,18.0,Lemn Masiv,Fara,1,3,0,1719.25
+GAMLARP,Sofas & armchairs,171.0,90.0,86.0,Lemn Masiv,Textil,0,2,0,2754.25
+GRÄLVIKEN,Sofas & armchairs,225.0,86.0,74.0,Lemn Masiv,Textil,1,3,0,2294.25
+KIVIK,Sofas & armchairs,228.0,95.0,83.0,Lemn Masiv,Textil,0,3,0,2524.25
+KIVIK,Sofas & armchairs,297.0,95.0,83.0,Lemn Masiv,Textil,0,3,0,5916.75
+GRÖNLID,Sofas & armchairs,252.0,164.0,104.0,Lemn Masiv,Textil,0,3,0,6888.5
+GRÖNLID,Sofas & armchairs,141.0,98.0,104.0,Lemn Masiv,Textil,0,2,0,1604.25
+LANDSKRONA,Sofas & armchairs,204.0,89.0,78.0,Lemn Masiv,Textil,0,3,0,4019.25
+KLIPPAN,Sofas & armchairs,177.0,88.0,66.0,Lemn Masiv,Textil,0,2,0,1489.25
+VALLENTUNA,Sofas & armchairs,80.0,100.0,45.0,Lemn Masiv,Textil,1,3,0,1334.0
+GRÖNLID,Sofas & armchairs,252.0,98.0,104.0,Lemn Masiv,Textil,0,4,0,5226.75
+VIMLE,Sofas & armchairs,252.0,164.0,103.0,Lemn Masiv,Textil,0,3,0,4065.25
+VIMLE,Sofas & armchairs,319.0,98.0,83.0,Lemn Masiv,Textil,0,3,0,6359.5
+GRÖNLID,Sofas & armchairs,258.0,164.0,104.0,Lemn Masiv,Textil,0,3,0,3668.5
+DELAKTIG,Sofas & armchairs,149.0,84.0,79.0,Lemn Masiv,Textil,0,2,0,3766.25
+GRÖNLID,Sofas & armchairs,71.0,98.0,104.0,Lemn Masiv,Textil,0,3,0,856.75
+STOCKHOLM,Sofas & armchairs,211.0,88.0,80.0,Lemn Masiv,Textil,0,3,0,7682.0
+GRÖNLID,Sofas & armchairs,327.0,252.0,104.0,Lemn Masiv,Textil,0,3,0,7561.25
+VIMLE,Sofas & armchairs,249.0,164.0,83.0,Lemn Masiv,Textil,0,3,0,6934.5
+BRÅTHULT,Sofas & armchairs,212.0,78.0,69.0,Lemn Masiv,Textil,1,3,0,2289.65
+FÄRLÖV,Sofas & armchairs,178.0,106.0,88.0,Lemn Masiv,Textil,0,2,0,2111.4
+KIVIK,Sofas & armchairs,368.0,257.0,83.0,Lemn Masiv,Textil,0,3,0,9539.25
+LANDSKRONA,Sofas & armchairs,282.0,158.0,78.0,Lemn Masiv,Textil,0,4,0,4939.25
+VIMLE,Sofas & armchairs,171.0,98.0,83.0,Lemn Masiv,Textil,0,2,0,2294.25
+VALLENTUNA,Sofas & armchairs,80.0,13.0,60.0,Lemn Masiv,Textil,0,3,0,46.0
+HAVSTEN,Sofas & armchairs,164.0,94.0,90.0,Lemn Masiv,Textil,0,2,0,2328.75
+STOCKHOLM 2017,Sofas & armchairs,228.0,112.0,72.0,Lemn Masiv,Textil,0,3,0,6251.4
+EKOLSUND,Sofas & armchairs,85.0,94.0,97.0,Lemn Masiv,Textil,0,3,0,287.5
+VIMLE,Sofas & armchairs,252.0,164.0,83.0,Lemn Masiv,Textil,0,3,0,3892.75
+VALLENTUNA,Sofas & armchairs,113.0,93.0,84.0,Lemn Masiv,Textil,1,3,0,2240.2
+HEMNES,Sofas & armchairs,89.0,70.0,18.0,Lemn Masiv,Fara,1,3,0,1719.25
+FLOTTEBO,Sofas & armchairs,200.0,90.0,79.0,Lemn Masiv,Textil,1,3,0,1835.4
+SÖDERHAMN,Sofas & armchairs,192.0,99.0,83.0,Lemn Masiv,Textil,0,3,0,2725.5
+HOLMSUND,Sofas & armchairs,230.0,99.0,96.0,Lemn Masiv,Textil,1,3,0,2639.25
+KUNGSHAMN,Sofas & armchairs,67.0,85.0,71.0,Lemn Masiv,Textil,0,3,0,672.75
+SÖDERHAMN,Sofas & armchairs,82.0,6.0,53.0,Lemn Masiv,Textil,0,3,0,201.25
+LIDHULT,Sofas & armchairs,298.0,164.0,102.0,Lemn Masiv,Textil,1,3,0,6716.0
+SÖDERHAMN,Sofas & armchairs,192.0,99.0,83.0,Lemn Masiv,Textil,0,3,0,3191.25
+VALLENTUNA,Sofas & armchairs,186.0,113.0,84.0,Lemn Masiv,Textil,1,2,0,4480.4
+GRÖNLID,Sofas & armchairs,235.0,98.0,104.0,Lemn Masiv,Textil,0,4,0,4812.75
+VATTVIKEN,Sofas & armchairs,92.0,83.0,86.0,Lemn Masiv,Textil,1,3,0,1144.25
+LANDSKRONA,Sofas & armchairs,164.0,89.0,78.0,Lemn Masiv,Textil,0,2,0,3444.25
+NYHAMN,Sofas & armchairs,200.0,97.0,90.0,Lemn Masiv,Textil,1,3,0,1661.75
+VALLENTUNA,Sofas & armchairs,80.0,80.0,45.0,Lemn Masiv,Textil,0,3,0,782.0
+POÄNG,Sofas & armchairs,68.0,54.0,39.0,Lemn Masiv,Textil,0,3,0,224.25
+VALLENTUNA,Sofas & armchairs,186.0,113.0,84.0,Lemn Masiv,Textil,1,2,0,3371.8
+LIDHULT,Sofas & armchairs,387.0,164.0,102.0,Lemn Masiv,Textil,1,3,0,11022.75
+LIDHULT,Sofas & armchairs,259.0,98.0,102.0,Lemn Masiv,Textil,0,3,0,3329.25
+VIMLE,Sofas & armchairs,190.0,98.0,83.0,Lemn Masiv,Textil,1,2,0,3858.25
+VIMLE,Sofas & armchairs,271.0,98.0,83.0,Lemn Masiv,Textil,1,3,0,5341.75
+NORSBORG,Sofas & armchairs,303.0,157.0,85.0,Lemn Masiv,Textil,0,3,0,6325.0
+NORSBORG,Sofas & armchairs,181.0,88.0,85.0,Lemn Masiv,Textil,0,3,0,1932.0
+GENEVAD,Sofas & armchairs,172.0,108.0,95.0,Lemn Masiv,Textil,0,2,0,3101.55
+VIMLE,Sofas & armchairs,15.0,93.0,68.0,Lemn Masiv,Textil,0,3,0,235.75
+KIVIK,Sofas & armchairs,257.0,95.0,83.0,Lemn Masiv,Textil,0,4,0,5341.75
+KIVIK,Sofas & armchairs,347.0,163.0,83.0,Lemn Masiv,Textil,0,3,0,6836.75
+LIDHULT,Sofas & armchairs,189.0,98.0,102.0,Lemn Masiv,Textil,0,2,0,3099.25
+VALLENTUNA,Sofas & armchairs,100.0,80.0,45.0,Lemn Masiv,Textil,0,3,0,736.0
+LYCKSELE LÖVÅS,Sofas & armchairs,142.0,100.0,87.0,Lemn Masiv,Textil,1,3,0,1431.75
+VIMLE,Sofas & armchairs,241.0,98.0,103.0,Lemn Masiv,Textil,0,3,0,3064.75
+GRÖNLID,Sofas & armchairs,18.0,93.0,68.0,Lemn Masiv,Textil,0,3,0,230.0
+DELAKTIG,Sofas & armchairs,204.0,84.0,79.0,Lemn Masiv,Textil,0,3,0,4485.0
+GRÖNLID,Sofas & armchairs,252.0,164.0,104.0,Lemn Masiv,Textil,1,3,0,8751.5
+LIDHULT,Sofas & armchairs,349.0,164.0,102.0,Lemn Masiv,Textil,0,4,0,5399.25
+KIVIK,Sofas & armchairs,227.0,95.0,83.0,Lemn Masiv,Textil,0,3,0,4370.0
+POÄNG,Sofas & armchairs,68.0,54.0,39.0,Lemn Masiv,Textil,0,3,0,281.75
+VALLENTUNA,Sofas & armchairs,113.0,93.0,84.0,Lemn Masiv,Textil,0,3,0,1688.2
+GRÖNLID,Sofas & armchairs,277.0,164.0,104.0,Lemn Masiv,Textil,1,3,0,5796.0
+KIVIK,Sofas & armchairs,328.0,257.0,83.0,Lemn Masiv,Textil,0,3,0,7929.25
+LANDSKRONA,Sofas & armchairs,282.0,158.0,78.0,Lemn Masiv,Textil,0,4,0,6894.25
+VIMLE,Sofas & armchairs,327.0,249.0,83.0,Lemn Masiv,Textil,0,3,0,9654.25
+BRIMNES,Sofas & armchairs,86.0,53.0,21.0,MDF/PAL,Fara,1,3,0,1259.25
+VALLENTUNA,Sofas & armchairs,80.0,13.0,84.0,Lemn Masiv,Textil,0,3,0,345.0
+DELAKTIG,Sofas & armchairs,149.0,84.0,45.0,Lemn Masiv,Textil,0,3,0,3105.0
+VIMLE,Sofas & armchairs,235.0,98.0,83.0,Lemn Masiv,Textil,0,4,0,5525.75
+LIDHULT,Sofas & armchairs,294.0,98.0,102.0,Lemn Masiv,Textil,1,3,0,8952.75
+GRÖNLID,Sofas & armchairs,196.0,98.0,104.0,Lemn Masiv,Textil,1,2,0,4134.25
+NYHAMN,Sofas & armchairs,200.0,97.0,90.0,Lemn Masiv,Textil,1,3,0,1374.25
+GRÖNLID,Sofas & armchairs,267.0,98.0,104.0,Lemn Masiv,Textil,1,3,0,5048.5
+POÄNG,Sofas & armchairs,68.0,54.0,39.0,Lemn Masiv,Textil,0,3,0,316.25
+VALLENTUNA,Sofas & armchairs,100.0,13.0,4.0,Lemn Masiv,Textil,0,3,0,368.0
+VALLENTUNA,Sofas & armchairs,266.0,93.0,84.0,Lemn Masiv,Textil,0,3,0,5294.6
+GRÖNLID,Sofas & armchairs,339.0,164.0,104.0,Lemn Masiv,Textil,0,4,0,5594.75
+HAVSTEN,Sofas & armchairs,179.0,94.0,90.0,Lemn Masiv,Textil,0,2,0,2495.5
+VALLENTUNA,Sofas & armchairs,80.0,13.0,64.0,Lemn Masiv,Textil,0,3,0,253.0
+FLOTTEBO,Sofas & armchairs,200.0,90.0,79.0,Lemn Masiv,Textil,1,3,0,1927.4
+LIDHULT,Sofas & armchairs,275.0,98.0,102.0,Lemn Masiv,Textil,0,3,0,7406.0
+LIDHULT,Sofas & armchairs,141.0,97.0,95.0,Lemn Masiv,Textil,0,2,0,2294.25
+DELAKTIG,Sofas & armchairs,94.0,84.0,79.0,Lemn Masiv,Textil,0,3,0,2702.5
+VIMLE,Sofas & armchairs,349.0,98.0,83.0,Lemn Masiv,Textil,1,3,0,8929.75
+VALLENTUNA,Sofas & armchairs,186.0,113.0,84.0,Lemn Masiv,Textil,0,2,0,2645.0
+VALLENTUNA,Sofas & armchairs,273.0,93.0,84.0,Lemn Masiv,Textil,0,3,0,3896.2
+VIMLE,Sofas & armchairs,261.0,98.0,83.0,Lemn Masiv,Textil,1,3,0,4950.75
+VALLENTUNA,Sofas & armchairs,266.0,93.0,84.0,Lemn Masiv,Textil,1,3,0,6095.0
+NORSBORG,Sofas & armchairs,80.0,157.0,85.0,Lemn Masiv,Textil,0,3,0,1472.0
+VIMLE,Sofas & armchairs,81.0,164.0,83.0,Lemn Masiv,Textil,0,3,0,1483.5
+VIMLE,Sofas & armchairs,141.0,98.0,80.0,Lemn Masiv,Textil,0,2,0,1822.75
+DELAKTIG,Sofas & armchairs,169.0,84.0,79.0,Lemn Masiv,Textil,0,2,0,3565.0
+LIDHULT,Sofas & armchairs,367.0,164.0,102.0,Lemn Masiv,Textil,0,3,0,9476.0
+VIMLE,Sofas & armchairs,249.0,98.0,83.0,Lemn Masiv,Textil,0,4,0,5451.0
+KIVIK,Sofas & armchairs,90.0,70.0,43.0,Lemn Masiv,Textil,0,3,0,799.25
+VIMLE,Sofas & armchairs,211.0,98.0,80.0,Lemn Masiv,Textil,0,3,0,2363.25
+VIMLE,Sofas & armchairs,71.0,98.0,80.0,Lemn Masiv,Textil,0,3,0,931.5
+NORSBORG,Sofas & armchairs,225.0,88.0,85.0,Lemn Masiv,Textil,0,4,0,4853.0
+VIMLE,Sofas & armchairs,235.0,98.0,103.0,Lemn Masiv,Textil,0,4,0,5502.75
+LIDHULT,Sofas & armchairs,279.0,164.0,102.0,Lemn Masiv,Textil,0,3,0,6242.2
+KIVIK,Sofas & armchairs,90.0,70.0,43.0,Lemn Masiv,Textil,0,3,0,1375.4
+GRÖNLID,Sofas & armchairs,71.0,94.0,104.0,Lemn Masiv,Textil,0,3,0,1265.0
+LYCKSELE MURBO,Sofas & armchairs,142.0,100.0,87.0,Lemn Masiv,Textil,1,3,0,1776.75
+LIDHULT,Sofas & armchairs,189.0,98.0,102.0,Lemn Masiv,Textil,0,2,0,3574.2
+NORSBORG,Sofas & armchairs,121.0,88.0,85.0,Lemn Masiv,Textil,0,2,0,1564.0
+LIDHULT,Sofas & armchairs,24.0,98.0,62.0,Lemn Masiv,Textil,0,3,0,402.5
+NYHAMN,Sofas & armchairs,200.0,97.0,90.0,Lemn Masiv,Textil,1,3,0,1748.0
+VIMLE,Sofas & armchairs,227.0,98.0,83.0,Lemn Masiv,Textil,0,3,0,2892.25
+LIDHULT,Sofas & armchairs,71.0,97.0,95.0,Lemn Masiv,Textil,0,3,0,1144.25
+NORSBORG,Sofas & armchairs,88.0,88.0,85.0,Lemn Masiv,Textil,0,3,0,1472.0
+VALLENTUNA,Sofas & armchairs,186.0,113.0,84.0,Lemn Masiv,Textil,0,2,0,3100.4
+GRÖNLID,Sofas & armchairs,177.0,98.0,104.0,Lemn Masiv,Textil,0,2,0,2875.0
+GRÖNLID,Sofas & armchairs,235.0,98.0,104.0,Lemn Masiv,Textil,1,4,0,7026.5
+GRÖNLID,Sofas & armchairs,252.0,164.0,104.0,Lemn Masiv,Textil,1,3,0,1851.5
+VIMLE,Sofas & armchairs,111.0,164.0,83.0,Lemn Masiv,Textil,0,3,0,402.5
+GRÖNLID,Sofas & armchairs,81.0,164.0,104.0,Lemn Masiv,Textil,0,3,0,1661.75
+HAVSTEN,Sofas & armchairs,260.0,94.0,90.0,Lemn Masiv,Textil,0,3,0,3588.0
+FLOTTEBO,Sofas & armchairs,200.0,120.0,79.0,Lemn Masiv,Textil,1,3,0,2479.4
+LIDHULT,Sofas & armchairs,279.0,164.0,102.0,Lemn Masiv,Textil,0,3,0,5169.25
+POÄNG,Sofas & armchairs,68.0,54.0,39.0,Lemn Masiv,Textil,0,3,0,431.25
+VIMLE,Sofas & armchairs,235.0,98.0,80.0,Lemn Masiv,Textil,0,4,0,2185.0
+KIVIK,Sofas & armchairs,318.0,163.0,83.0,Lemn Masiv,Textil,0,4,0,7360.0
+LIDHULT,Sofas & armchairs,208.0,98.0,102.0,Lemn Masiv,Textil,1,2,0,4646.0
+LIDHULT,Sofas & armchairs,211.0,98.0,95.0,Lemn Masiv,Textil,0,3,0,2524.25
+KIVIK,Sofas & armchairs,280.0,163.0,83.0,Lemn Masiv,Textil,0,3,0,7084.0
+KIVIK,Sofas & armchairs,234.0,94.0,83.0,Lemn Masiv,Textil,0,3,0,3047.5
+LIDHULT,Sofas & armchairs,90.0,164.0,95.0,Lemn Masiv,Textil,0,3,0,2668.0
+HAVSTEN,Sofas & armchairs,245.0,94.0,90.0,Lemn Masiv,Textil,0,3,0,3421.25
+GRÖNLID,Sofas & armchairs,258.0,164.0,104.0,Lemn Masiv,Textil,0,3,0,4715.0
+LANDSKRONA,Sofas & armchairs,78.0,158.0,78.0,Lemn Masiv,Textil,0,3,0,2070.0
+GRÖNLID,Sofas & armchairs,235.0,98.0,104.0,Lemn Masiv,Textil,0,3,0,4324.0
+LIDHULT,Sofas & armchairs,24.0,98.0,62.0,Lemn Masiv,Textil,0,3,0,409.4
+GRÖNLID,Sofas & armchairs,211.0,98.0,104.0,Lemn Masiv,Textil,0,3,0,2351.75
+LIDHULT,Sofas & armchairs,369.0,164.0,102.0,Lemn Masiv,Textil,0,4,0,7239.25
+GRÖNLID,Sofas & armchairs,235.0,98.0,104.0,Lemn Masiv,Textil,0,3,0,5520.0
+LYCKSELE HÅVET,Sofas & armchairs,142.0,100.0,87.0,Lemn Masiv,Textil,1,3,0,1891.75
+GRÖNLID,Sofas & armchairs,160.0,98.0,104.0,Lemn Masiv,Textil,1,2,0,4071.0
+HEMNES,Sofas & armchairs,89.0,70.0,18.0,Lemn Masiv,Fara,1,3,0,2524.25
+LIDHULT,Sofas & armchairs,259.0,98.0,102.0,Lemn Masiv,Textil,0,3,0,4494.2
+GRÖNLID,Sofas & armchairs,247.0,98.0,104.0,Lemn Masiv,Textil,0,3,0,3105.0
+KIVIK,Sofas & armchairs,190.0,95.0,83.0,Lemn Masiv,Textil,0,3,0,4094.0
+GRÖNLID,Sofas & armchairs,327.0,252.0,104.0,Lemn Masiv,Textil,0,3,0,10235.0
+LIDHULT,Sofas & armchairs,160.0,97.0,95.0,Lemn Masiv,Textil,1,2,0,5567.15
+GRÖNLID,Sofas & armchairs,328.0,164.0,104.0,Lemn Masiv,Textil,0,4,0,1104.0
+VIMLE,Sofas & armchairs,235.0,98.0,83.0,Lemn Masiv,Textil,0,3,0,4611.5
+HAVSTEN,Sofas & armchairs,341.0,94.0,90.0,Lemn Masiv,Textil,0,4,0,4680.5
+GRÖNLID,Sofas & armchairs,231.0,98.0,104.0,Lemn Masiv,Textil,1,3,0,4910.5
+LIDHULT,Sofas & armchairs,160.0,97.0,95.0,Lemn Masiv,Textil,1,2,0,3611.0
+VIMLE,Sofas & armchairs,246.0,98.0,83.0,Lemn Masiv,Textil,1,3,0,4456.25
+GRÖNLID,Sofas & armchairs,211.0,94.0,104.0,Lemn Masiv,Textil,0,3,0,2415.0
+LIDHULT,Sofas & armchairs,275.0,98.0,102.0,Lemn Masiv,Textil,0,4,0,5796.0
+LIDHULT,Sofas & armchairs,208.0,98.0,102.0,Lemn Masiv,Textil,1,2,0,6385.95
+HAVSTEN,Sofas & armchairs,326.0,94.0,90.0,Lemn Masiv,Textil,0,4,0,4513.75
+DELAKTIG,Sofas & armchairs,94.0,84.0,45.0,Lemn Masiv,Textil,0,3,0,1725.0
+GRÖNLID,Sofas & armchairs,252.0,164.0,104.0,Lemn Masiv,Textil,0,3,0,8510.0
+LIDHULT,Sofas & armchairs,298.0,164.0,102.0,Lemn Masiv,Textil,1,3,0,9053.95
+GRÖNLID,Sofas & armchairs,322.0,98.0,104.0,Lemn Masiv,Textil,0,3,0,6900.0
+GRÖNLID,Sofas & armchairs,18.0,93.0,68.0,Lemn Masiv,Textil,0,3,0,345.0
+LIDHULT,Sofas & armchairs,275.0,98.0,102.0,Lemn Masiv,Textil,0,3,0,6681.5
+VIMLE,Sofas & armchairs,93.0,93.0,83.0,Lemn Masiv,Textil,0,3,0,1449.0
+GRÖNLID,Sofas & armchairs,81.0,164.0,104.0,Lemn Masiv,Textil,0,3,0,1840.0
+NORSBORG,Sofas & armchairs,16.0,88.0,52.0,Lemn Masiv,Textil,0,3,0,391.0
+GRÖNLID,Sofas & armchairs,339.0,164.0,104.0,Lemn Masiv,Textil,0,4,0,6555.0
+LIDHULT,Sofas & armchairs,349.0,164.0,102.0,Lemn Masiv,Textil,0,4,0,7162.2
+BRIMNES,Sofas & armchairs,86.0,53.0,21.0,MDF/PAL,Fara,1,3,0,1937.75
+GRÖNLID,Sofas & armchairs,93.0,93.0,104.0,Lemn Masiv,Textil,0,3,0,1201.75
+GRÖNLID,Sofas & armchairs,141.0,94.0,104.0,Lemn Masiv,Textil,0,2,0,2185.0
+LIDHULT,Sofas & armchairs,211.0,98.0,95.0,Lemn Masiv,Textil,0,3,0,3675.4
+VIMLE,Sofas & armchairs,160.0,98.0,83.0,Lemn Masiv,Textil,1,2,0,3386.75
+LIDHULT,Sofas & armchairs,369.0,164.0,102.0,Lemn Masiv,Textil,0,4,0,8910.2
+GRÖNLID,Sofas & armchairs,235.0,98.0,104.0,Lemn Masiv,Textil,0,4,0,6440.0
+LIDHULT,Sofas & armchairs,141.0,98.0,95.0,Lemn Masiv,Textil,0,2,0,2755.4
+GRÖNLID,Sofas & armchairs,252.0,98.0,104.0,Lemn Masiv,Textil,0,4,0,6670.0
+GRÖNLID,Sofas & armchairs,93.0,93.0,104.0,Lemn Masiv,Textil,0,3,0,1610.0
+MALM,Tables & desks,140.0,65.0,73.0,MDF/PAL,Fara,0,0,4,546.25
+SKÅDIS,Tables & desks,36.0,12.0,56.0,Lemn Masiv,Fara,0,0,2,92.0
+MICKE,Tables & desks,105.0,50.0,75.0,MDF/PAL,Fara,0,0,2,317.4
+MALM,Tables & desks,120.0,41.0,78.0,MDF/PAL,Fara,0,0,4,431.25
+MICKE,Tables & desks,73.0,50.0,75.0,MDF/PAL,Fara,0,0,2,201.25
+KNARREVIK,Tables & desks,37.0,28.0,45.0,Lemn Masiv,Fara,1,0,2,44.85
+VITTSJÖ,Tables & desks,100.0,36.0,74.0,Metal,Fara,0,0,2,182.85
+VITTSJÖ,Tables & desks,35.0,55.0,65.0,Lemn Masiv,Fara,0,0,2,148.35
+KALLAX,Tables & desks,77.0,159.0,147.0,MDF/PAL,Fara,0,0,2,517.5
+LILLÅSEN,Tables & desks,49.0,32.0,74.0,Metal,Fara,0,0,2,718.75
+MICKE,Tables & desks,142.0,50.0,75.0,MDF/PAL,Fara,0,0,4,454.25
+FJÄLLBO,Tables & desks,100.0,36.0,75.0,Metal,Fara,0,0,2,339.25
+LOMMARP,Tables & desks,90.0,54.0,90.0,MDF/PAL,Fara,0,0,2,626.75
+MICKE,Tables & desks,105.0,50.0,140.0,MDF/PAL,Fara,0,0,2,518.65
+SMÅGÖRA,Tables & desks,29.0,25.0,88.0,Metal,Fara,0,0,2,109.25
+ALEX,Tables & desks,120.0,27.0,10.0,Lemn Masiv,Fara,0,0,4,230.0
+HEMNES,Tables & desks,100.0,50.0,159.0,Lemn Masiv,Fara,0,0,2,684.25
+ALEX,Tables & desks,131.0,60.0,76.0,Lemn Masiv,Fara,0,0,4,914.25
+STUVA,Tables & desks,90.0,50.0,50.0,Lemn Masiv,Fara,0,0,2,201.25
+KULLEN,Tables & desks,35.0,40.0,49.0,Metal,Fara,1,0,2,102.35
+HEMNES,Tables & desks,120.0,47.0,75.0,Lemn Masiv,Fara,1,0,4,914.25
+PÅHL,Tables & desks,64.0,17.0,60.0,MDF/PAL,Fara,0,0,2,143.75
+MALM,Tables & desks,151.0,65.0,73.0,MDF/PAL,Fara,0,0,4,741.75
+BRIMNES,Tables & desks,39.0,41.0,53.0,MDF/PAL,Fara,1,0,2,178.25
+HEMNES,Tables & desks,46.0,35.0,70.0,Lemn Masiv,Fara,1,0,2,258.75
+NORDKISA,Tables & desks,40.0,40.0,67.0,MDF/PAL,Fara,1,0,2,281.75
+BRIMNES,Tables & desks,70.0,42.0,77.0,MDF/PAL,Fara,0,0,2,396.75
+ISBERGET,Tables & desks,25.0,25.0,9.0,Lemn Masiv,Fara,0,0,2,11.5
+NORBERG,Tables & desks,74.0,60.0,43.0,MDF/PAL,Fara,0,0,2,258.75
+BRUSALI,Tables & desks,90.0,52.0,73.0,MDF/PAL,Fara,0,0,2,339.25
+NIKKEBY,Tables & desks,46.0,49.0,70.0,Metal,Fara,1,0,2,339.25
+TYSSEDAL,Tables & desks,120.0,51.0,86.0,MDF/PAL,Fara,0,0,4,862.5
+TRYSIL,Tables & desks,45.0,40.0,53.0,Metal,Fara,1,0,2,201.25
+BRUSALI,Tables & desks,120.0,73.0,73.0,Metal,Fara,0,0,4,373.75
+PÅHL,Tables & desks,64.0,17.0,39.0,Lemn Masiv,Fara,0,0,2,115.0
+NORDKISA,Tables & desks,76.0,47.0,79.0,Metal,Fara,0,0,2,547.4
+KORNSJÖ,Tables & desks,70.0,47.0,187.0,Metal,Fara,0,0,2,856.75
+BRÄDA,Tables & desks,42.0,31.0,9.0,Metal,Fara,0,0,2,17.25
+KORNSJÖ,Tables & desks,50.0,35.0,63.0,MDF/PAL,Fara,0,0,2,224.25
+ASKVOLL,Tables & desks,41.0,41.0,48.0,Metal,Fara,1,0,2,201.25
+ALEX,Tables & desks,36.0,58.0,70.0,MDF/PAL,Fara,1,0,2,396.75
+KULLABERG,Tables & desks,110.0,70.0,75.0,Lemn Masiv,Fara,0,0,2,799.25
+VILTO,Tables & desks,48.0,30.0,45.0,Metal,Fara,0,0,2,100.05
+MALM,Tables & desks,40.0,48.0,55.0,MDF/PAL,Fara,1,0,2,189.75
+BYLLAN,Tables & desks,51.0,38.0,8.0,MDF/PAL,Fara,0,0,2,79.35
+VIGGJA,Tables & desks,37.0,50.0,74.0,MDF/PAL,Fara,0,0,2,113.85
+SVALNÄS,Tables & desks,86.0,35.0,176.0,MDF/PAL,Fara,0,0,2,713.0
+TYSSEDAL,Tables & desks,120.0,51.0,144.0,Metal,Fara,0,0,4,1063.75
+LERBERG,Tables & desks,60.0,39.0,70.0,Metal,Fara,0,0,2,51.75
+BESTÅ BURS,Tables & desks,120.0,40.0,74.0,Lemn Masiv,Fara,0,0,4,1029.25
+SYVDE,Tables & desks,100.0,48.0,78.0,MDF/PAL,Fara,0,0,2,684.25
+ARKELSTORP,Tables & desks,80.0,40.0,75.0,Lemn Masiv,Fara,0,0,2,684.25
+ÖNSKLIG,Tables & desks,27.0,23.0,26.0,Lemn Masiv,Fara,0,0,2,67.85
+SONGESAND,Tables & desks,42.0,40.0,55.0,Metal,Fara,1,0,2,178.25
+LISABO,Tables & desks,118.0,45.0,74.0,MDF/PAL,Fara,0,0,2,856.75
+SETSKOG,Tables & desks,45.0,35.0,65.0,Metal,Fara,1,0,2,182.85
+KNOTTEN,Tables & desks,62.0,48.0,105.0,Metal,Fara,0,0,2,639.4
+BEKANT,Tables & desks,61.0,45.0,101.0,Lemn Masiv,Fara,0,0,2,1597.35
+TYSSEDAL,Tables & desks,51.0,40.0,59.0,Metal,Fara,1,0,2,373.75
+MICKE,Tables & desks,105.0,16.0,65.0,MDF/PAL,Fara,0,0,2,201.25
+ODDVALD,Tables & desks,42.0,70.0,70.0,Metal,Fara,0,0,2,86.25
+HEMNES,Tables & desks,155.0,65.0,74.0,Lemn Masiv,Fara,0,0,4,1375.4
+SLÄKT,Tables & desks,62.0,53.0,35.0,Metal,Fara,0,0,2,339.25
+TRANARÖ,Tables & desks,56.0,41.0,43.0,Metal,Fara,0,0,2,109.25
+GODVIN,Tables & desks,4.0,3.0,70.0,MDF/PAL,Fara,0,0,2,28.75
+EKET,Tables & desks,35.0,25.0,35.0,MDF/PAL,Fara,0,0,2,92.0
+SMÅGÖRA,Tables & desks,60.0,40.0,91.0,Metal,Fara,0,0,2,425.5
+ALEX,Tables & desks,36.0,58.0,70.0,Metal,Fara,0,0,2,316.25
+SMÅGÖRA,Tables & desks,60.0,40.0,91.0,MDF/PAL,Fara,0,0,2,316.25
+BJÖRKSNÄS,Tables & desks,48.0,38.0,8.0,MDF/PAL,Fara,1,0,2,454.25
+BEKANT,Tables & desks,41.0,45.0,61.0,Metal,Fara,0,0,2,1040.75
+HEMNES,Tables & desks,54.0,38.0,66.0,Lemn Masiv,Fara,1,0,2,431.25
+BEKANT,Tables & desks,121.0,45.0,134.0,Metal,Fara,0,0,4,1719.25
+KLIMPEN,Tables & desks,58.0,33.0,70.0,MDF/PAL,Fara,0,0,2,396.75
+TYSSEDAL,Tables & desks,70.0,42.0,45.0,Lemn Masiv,Fara,0,0,2,454.25
+BEKANT,Tables & desks,41.0,45.0,61.0,MDF/PAL,Fara,0,0,2,1079.85
+KLIMPEN,Tables & desks,58.0,23.0,23.0,MDF/PAL,Fara,0,0,2,230.0
+ARKELSTORP,Tables & desks,140.0,70.0,74.0,Metal,Fara,0,0,4,1086.75
+STUVA / FRITIDS,Tables & desks,90.0,79.0,102.0,MDF/PAL,Fara,1,0,2,931.5
+INGATORP,Tables & desks,73.0,50.0,74.0,Lemn Masiv,Fara,0,0,2,799.25
+VIKHAMMER,Tables & desks,60.0,39.0,7.0,Metal,Fara,1,0,2,454.25
+STUVA,Tables & desks,90.0,79.0,102.0,Lemn Masiv,Fara,0,0,2,626.75
+BEKANT,Tables & desks,61.0,45.0,101.0,Lemn Masiv,Fara,0,0,2,1443.25
+KALLAX,Tables & desks,147.0,159.0,147.0,MDF/PAL,Fara,0,0,4,868.25
+SVALNÄS,Tables & desks,233.0,35.0,176.0,Metal,Fara,0,0,6,2116.0
+BEKANT,Tables & desks,41.0,45.0,101.0,Lemn Masiv,Fara,0,0,2,1194.85
+EKET,Tables & desks,35.0,35.0,35.0,MDF/PAL,Fara,0,0,2,108.1
+NORDLI,Tables & desks,30.0,50.0,67.0,Lemn Masiv,Fara,1,0,2,488.75
+BEKANT,Tables & desks,61.0,45.0,101.0,Lemn Masiv,Fara,0,0,2,1488.1
+SMÅGÖRA,Tables & desks,60.0,40.0,91.0,Metal,Fara,0,0,2,534.75
+SKOGSTORP,Tables & desks,155.0,75.0,78.0,Metal,Fara,0,0,4,2064.25
+BEKANT,Tables & desks,41.0,45.0,61.0,Lemn Masiv,Fara,0,0,2,970.6
+BEKANT,Tables & desks,41.0,45.0,101.0,Lemn Masiv,Fara,0,0,2,1270.75
+GULLIVER,Tables & desks,82.0,54.0,93.0,MDF/PAL,Fara,0,0,2,914.25
+STUVA / FÖLJA,Tables & desks,90.0,79.0,102.0,Lemn Masiv,Fara,1,0,2,948.75
+SVALNÄS,Tables & desks,86.0,35.0,176.0,Lemn Masiv,Fara,0,0,2,759.0
+BEKANT,Tables & desks,61.0,45.0,101.0,Lemn Masiv,Fara,0,0,2,1552.5
+KLIMPEN,Tables & desks,33.0,58.0,70.0,MDF/PAL,Fara,1,0,2,569.25
+BEKANT,Tables & desks,41.0,45.0,101.0,Lemn Masiv,Fara,0,0,2,1200.6
+SVALNÄS,Tables & desks,213.0,35.0,176.0,Lemn Masiv,Fara,0,0,6,2104.5
+BEKANT,Tables & desks,41.0,45.0,61.0,MDF/PAL,Fara,0,0,2,1150.0
+SVALNÄS,Tables & desks,150.0,35.0,176.0,Lemn Masiv,Fara,0,0,4,1431.75
+BEKANT,Tables & desks,41.0,45.0,101.0,Lemn Masiv,Fara,0,0,2,1265.0
